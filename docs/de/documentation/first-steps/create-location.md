@@ -88,3 +88,7 @@ würde_ )
 ![](/img/overbooking-countone.png){data-zoomable}
 _Nur der erste Tag wird bei der Überbuchung gezählt: Das Wochenende ist somit
 überbuchbar aber es kann nicht bis Dienstag gebucht werden._
+
+**Kategorie anlegen**
+
+TODO

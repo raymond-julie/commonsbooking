@@ -29,3 +29,7 @@ Ergänze hier die Kurzversion der Artikelbeschreibung, diese wird in der Artikel
 
 Es ist möglich einen Artikel mit einem Passwort zu versehen. Klicke dafür neben "Status" auf der rechten Seite des Artikels und füge ein Passwort hinzu. Jetzt können Nutzende diesen Artikel nur buchen, wenn das korrekte Passwort eingegeben wurde.
 ![](/img/item-password.png){width="400"}
+
+**Kategorie anlegen**
+
+TODO
